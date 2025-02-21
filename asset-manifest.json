@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ramadan/static/css/main.7d7c8fe4.css",
+    "main.js": "/ramadan/static/js/main.96b9e447.js",
+    "static/media/ramadan.wav": "/ramadan/static/media/ramadan.5f4dcc5b80f263f09e0e.wav",
+    "index.html": "/ramadan/index.html",
+    "main.7d7c8fe4.css.map": "/ramadan/static/css/main.7d7c8fe4.css.map",
+    "main.96b9e447.js.map": "/ramadan/static/js/main.96b9e447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d7c8fe4.css",
+    "static/js/main.96b9e447.js"
+  ]
+}
